@@ -1,0 +1,6 @@
+SHA-256:
+d442c9946e619224b57f132c9fd37b3412a30632b8e786ce359d8f01522c786b
+
+Vérifier l'intégrité de l'ISO :
+Sous Linux : sha256sum debian-11.7.0-i386-netinst.iso
+Sous Windows : CertUtil -hashfile debian-11.7.0-i386-netinst.iso SHA256
