@@ -3,6 +3,8 @@
 ## À propos
 Ce dépôt contient l'ISO pour Debian 11.7.0 I386 Netinst. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`debian-11.7.0-i386-netinst.iso`](https://github.com/PassAndSecure/Debian_11/releases/download/debian-11.7.0-i386-netinst.iso/debian-11.7.0-i386-netinst.iso) pour le télécharger.
 
